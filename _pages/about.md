@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Machine Learning Research Scientist</p>
-    <p>Isomorphic Labs</p>
+    <p><a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a></p>
     <p>Lausanne, Switzerland</p>
 
 news: true # includes a list of news items
