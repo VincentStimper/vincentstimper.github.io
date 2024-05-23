@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Research Scientist, <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a>
+subtitle: Machine Learning Research Scientist, <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a> <br> PhD in Machine Learning, University of Cambridge 
 
 profile:
   align: right
