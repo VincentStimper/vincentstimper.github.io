@@ -18,14 +18,24 @@
       "endDate": "2024-05-31",
     },
     {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
-      "url": "https://www.uzh.ch/",
-      "area": "Machine Learning",
-      "studyType": "PhD",
-      "startDate": "2020-01-01",
-      "endDate": "2024-05-31",
-      "score": "10"
+      "institution": "Technical University of Munich",
+      "location": "Munich, GER",
+      "url": "https://www.tum.de/",
+      "area": "Physics",
+      "studyType": "Master",
+      "startDate": "2017-10-01",
+      "endDate": "2019-09-30",
+      "score": "1.0 (best possible)"
+    },
+    {
+      "institution": "Technical University of Munich",
+      "location": "Munich, GER",
+      "url": "https://www.tum.de/",
+      "area": "Physics",
+      "studyType": "Bachelor",
+      "startDate": "2014-10-01",
+      "endDate": "2017-09-30",
+      "score": "1.0 (best possible)"
     }
   ],
   "work": [
