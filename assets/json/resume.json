@@ -20,7 +20,7 @@
     {
       "institution": "Technical University of Munich",
       "location": "Munich, GER",
-      "url": "https://www.tum.de/",
+      "url": "https://www.nat.tum.de",
       "area": "Physics",
       "studyType": "Master",
       "startDate": "2017-10-01",
@@ -30,7 +30,7 @@
     {
       "institution": "Technical University of Munich",
       "location": "Munich, GER",
-      "url": "https://www.tum.de/",
+      "url": "https://www.nat.tum.de",
       "area": "Physics",
       "studyType": "Bachelor",
       "startDate": "2014-10-01",
@@ -45,7 +45,7 @@
       "url": "https://www.isomorphiclabs.com/",
       "startDate": "2024-06-01",
       "endDate": "",
-      "location": "Lausanne, CH",
+      "location": "Lausanne, Switzerland",
       "summary": ""
     },
     {
@@ -87,7 +87,7 @@
     {
       "name": "Ludwig Maximilian University",
       "position": "Research Assistant",
-      "url": "https://example.com",
+      "url": "https://www.molecularbiophysics.physik.lmu.de/",
       "startDate": "2017-12-01",
       "endDate": "2018-05-31",
       "location": "Munich, GER",
@@ -96,7 +96,7 @@
     {
       "name": "Ontario Institute for Cancer Research",
       "position": "Research Intern",
-      "url": "https://example.com",
+      "url": "https://oicr.on.ca/",
       "startDate": "2017-07-01",
       "endDate": "2017-09-30",
       "location": "Toronto, CA",
