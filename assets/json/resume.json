@@ -10,7 +10,7 @@
   "education": [
     {
       "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
+      "location": "Cambridge,<br>United Kingdom",
       "url": "https://mlg.eng.cam.ac.uk/",
       "area": "Machine Learning",
       "studyType": "PhD",
@@ -19,7 +19,7 @@
     },
     {
       "institution": "Technical University of Munich",
-      "location": "Munich, GER",
+      "location": "Munich, Germany",
       "url": "https://www.nat.tum.de",
       "area": "Physics",
       "studyType": "Master",
@@ -45,7 +45,7 @@
       "url": "https://www.isomorphiclabs.com/",
       "startDate": "2024-06-01",
       "endDate": "",
-      "location": "Lausanne, CH",
+      "location": "Lausanne, Switzerland",
       "summary": ""
     },
     {
