@@ -16,7 +16,8 @@
       "area": "Machine Learning",
       "studyType": "PhD",
       "startDate": "2020-01-01",
-      "endDate": "2024-05-31"
+      "endDate": "2024-05-31",
+      "summary": "Joint PhD at the <a href='https://www.cam.ac.uk/'>University of Cambridge</a> and the <a href='https://is.mpg.de/'>Max Planck Institute for Intelligent Systems</a>. PhD thesis with topic <i>Advancing Normalising Flows to Model Boltzmann Distributions</i> supervised by <a href='https://jmhl.org/'>Prof. José Miguel Hernández-Lobato</a> and <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>."
     },
     {
       "institution": "Technical University of Munich",
@@ -26,7 +27,8 @@
       "studyType": "Master",
       "startDate": "2017-10-01",
       "endDate": "2019-09-30",
-      "score": "1.0 (best possible)"
+      "score": "1.0 (best possible)",
+      "summary": "Master thesis with topic <i>Inferring the Band Structure from Band Mapping Data through Machine Learning</i> supervised by <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>. Final grade: 1.0 (best possible)."
     },
     {
       "institution": "Technical University of Munich",
@@ -36,7 +38,7 @@
       "studyType": "Bachelor",
       "startDate": "2014-10-01",
       "endDate": "2017-09-30",
-      "summary": "Did many mathematics, computer science, and machine learning courses besides the physics curriculum. Bachelor thesis with topic 'Optimal Dynamic Adaptation of Microorganism in Changing Environments' supervised by <a href='https://www.bio.nat.tum.de/qbio/home/'>Prof. Ulrich Gerland</a>. Final grade: 1.0 (best possible)"
+      "summary": "Bachelor thesis with topic <i>Optimal Dynamic Adaptation of Microorganism in Changing Environments</i> supervised by <a href='https://www.bio.nat.tum.de/qbio/home/'>Prof. Ulrich Gerland</a>. Final grade: 1.0 (best possible)."
     }
   ],
   "work": [
@@ -47,7 +49,7 @@
       "startDate": "2024-06-01",
       "endDate": "",
       "location": "Lausanne, Switzerland",
-      "summary": ""
+      "summary": "Discovery of drugs through machine learning."
     },
     {
       "name": "Microsoft",
@@ -56,7 +58,7 @@
       "startDate": "2023-07-03",
       "endDate": "2023-09-22",
       "location": "Berlin, Germany",
-      "summary": ""
+      "summary": "Generative modeling to model molecular configurations."
     },
     {
       "name": "Amazon",
@@ -65,7 +67,7 @@
       "startDate": "2021-06-15",
       "endDate": "2021-09-17",
       "location": "Berlin, Germany",
-      "summary": ""
+      "summary": "Item identification in warehouses through computer vision."
     },
     {
       "name": "Max Planck Institute for Intelligent Systems",
@@ -74,7 +76,7 @@
       "startDate": "2021-01-01",
       "endDate": "2024-05-31",
       "location": "Tübingen, Germany",
-      "summary": ""
+      "summary": "Work on my PhD about modeling molecular configurations with generative models."
     },
     {
       "name": "Amazon",
@@ -83,7 +85,7 @@
       "startDate": "2019-10-01",
       "endDate": "2019-12-31",
       "location": "Tübingen, Germany",
-      "summary": ""
+      "summary": "Vision system of the autonomous delivery robot Scout."
     },
     {
       "name": "Ludwig Maximilian University",
@@ -92,7 +94,7 @@
       "startDate": "2017-12-01",
       "endDate": "2018-05-31",
       "location": "Munich, Germany",
-      "summary": ""
+      "summary": "Analysis of atomic force microscopy images of DNA with computer vision."
     },
     {
       "name": "Ontario Institute for Cancer Research",
@@ -101,7 +103,7 @@
       "startDate": "2017-07-01",
       "endDate": "2017-09-30",
       "location": "Toronto, Canada",
-      "summary": ""
+      "summary": "Survival analysis of cancer patients with machine learning."
     }
   ],
   "volunteer": [
@@ -123,47 +125,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ]
 }
