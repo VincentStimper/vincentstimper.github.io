@@ -108,23 +108,45 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Various high school student competitions",
+      "location": "Germany",
+      "position": "Supervisor and jury member",
+      "url": "https://www.jugend-forscht.de/",
+      "startDate": "2014-10-01",
+      "endDate": "",
+      "summary": "Supervisor and jury member at several high school student competitions, such as <a href='https://www.jugend-forscht.de/'>Jugend forscht</a> and <a href='https://www.gypt.org/'>GYPT</a>."
+    },
+    {
+      "organization": "German Society",
+      "location": "Cambridge, Germany",
+      "position": "IT officer",
+      "url": "https://german-society.org/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Took care of website and other online presences."
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "G-Research PhD Prize",
+      "date": "2024-02-05",
+      "awarder": "G-Research",
+      "url": "https://www.gresearch.com/",
+      "summary": "Prize for an outstanding PhD thesis including a prize money of 10000 pounds."
+    },
+    {
+      "title": "Best Master's degree in Physics",
+      "date": "2022-03-08",
+      "awarder": "Friends' Association of the Technical University of Munich",
+      "url": "https://www.freunde.tum.de/bdf/startseite/",
+      "summary": "Best Bachelor's degree in Physics at the Technical University of Munich in 2019."
+    },
+    {
+      "title": "Best Bachelor's degree in Physics",
+      "date": "2018-02-23",
+      "awarder": "Friends' Association of the Technical University of Munich",
+      "url": "https://www.freunde.tum.de/bdf/startseite/",
+      "summary": "Best Bachelor's degree in Physics at the Technical University of Munich in 2017."
     }
   ]
 }
