@@ -25,3 +25,5 @@ Being co-supervised by <a href='https://jmhl.org/'>Prof. José Miguel Hernández
 My Bachelor's and Master's degree in Physics I obtained in 2017 and 2019 at the Technical University of Munich.
 
 While studying, I completed internships in machine learning research at Microsoft, Amazon, and the Ontario Institute for Cancer Research.
+
+Besides work, I enjoy endurance sport, especially cycling, running, and hiking.
