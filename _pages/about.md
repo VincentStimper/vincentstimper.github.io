@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: ML Researcher @ <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a> | PhD from Cambridge | Previously at Microsoft, Amazon, MPI-IS
 
