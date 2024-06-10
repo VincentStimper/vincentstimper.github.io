@@ -22,7 +22,7 @@ I'm a Machine Learning Research Scientist at the Google Deep Mind sister company
 
 Before joining Iso in 2024, I did my PhD in machine learning at the University of Cambridge and the Max Planck Institute for Intelligent Systems.
 Being co-supervised by <a href='https://jmhl.org/'>Prof. José Miguel Hernández-Lobato</a> and <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>, I worked on developing generative models for molecular configurations.
-My Bachelor's and Master's degrees in Physics I obtained in 2017 and 2019 at the Technical University of Munich.
+My Bachelor's and Master's degree in Physics I obtained in 2017 and 2019 at the Technical University of Munich.
 
 While studying, I completed internships in machine learning research at Microsoft, Amazon, and the Ontario Institute for Cancer Research.
 
