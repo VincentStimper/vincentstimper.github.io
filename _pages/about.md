@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ML Researcher @ <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a> | PhD in ML from Cambridge | Previously at Microsoft, Amazon, MPI-IS, OICR
+subtitle: ML Researcher @ <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a> | PhD from Cambridge | Previously at Microsoft, Amazon, MPI-IS
 
 profile:
   align: right
