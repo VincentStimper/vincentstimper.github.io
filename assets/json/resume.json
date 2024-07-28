@@ -3,44 +3,11 @@
     "name": "Vincent Stimper",
     "image": "cover_pic.jpg",
     "email": "firstname.lastname@gmail.com",
-    "url": "https://vincentstimper.github.io",
+    "url": "https://vincentstimper.com",
     "location": "Lausanne, Switzerland",
     "languages": "English, German, French",
     "profiles": ""
   },
-  "education": [
-    {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
-      "url": "https://mlg.eng.cam.ac.uk/",
-      "area": "Machine Learning",
-      "studyType": "PhD",
-      "startDate": "2020-01-01",
-      "endDate": "2024-05-31",
-      "summary": "Joint PhD at the <a href='https://www.cam.ac.uk/'>University of Cambridge</a> and the <a href='https://is.mpg.de/'>Max Planck Institute for Intelligent Systems</a>. PhD thesis with topic <i>Advancing Normalising Flows to Model Boltzmann Distributions</i> supervised by <a href='https://jmhl.org/'>Prof. José Miguel Hernández-Lobato</a> and <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>."
-    },
-    {
-      "institution": "Technical University of Munich",
-      "location": "Munich, Germany",
-      "url": "https://www.nat.tum.de",
-      "area": "Physics",
-      "studyType": "Master",
-      "startDate": "2017-10-01",
-      "endDate": "2019-09-30",
-      "score": "1.0 (best possible)",
-      "summary": "Master thesis with topic <i>Inferring the Band Structure from Band Mapping Data through Machine Learning</i> supervised by <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>. Final grade: 1.0 (best possible)."
-    },
-    {
-      "institution": "Technical University of Munich",
-      "location": "Munich, Germany",
-      "url": "https://www.nat.tum.de",
-      "area": "Physics",
-      "studyType": "Bachelor",
-      "startDate": "2014-10-01",
-      "endDate": "2017-09-30",
-      "summary": "Bachelor thesis with topic <i>Optimal Dynamic Adaptation of Microorganism in Changing Environments</i> supervised by <a href='https://www.bio.nat.tum.de/qbio/home/'>Prof. Ulrich Gerland</a>. Final grade: 1.0 (best possible)."
-    }
-  ],
   "work": [
     {
       "name": "Isomorphic Labs",
@@ -104,6 +71,39 @@
       "endDate": "2017-09-30",
       "location": "Toronto, Canada",
       "summary": "Survival analysis of cancer patients with machine learning."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "https://mlg.eng.cam.ac.uk/",
+      "area": "Machine Learning",
+      "studyType": "PhD",
+      "startDate": "2020-01-01",
+      "endDate": "2024-05-31",
+      "summary": "Joint PhD at the <a href='https://www.cam.ac.uk/'>University of Cambridge</a> and the <a href='https://is.mpg.de/'>Max Planck Institute for Intelligent Systems</a>. PhD thesis with topic <i>Advancing Normalising Flows to Model Boltzmann Distributions</i> supervised by <a href='https://jmhl.org/'>Prof. José Miguel Hernández-Lobato</a> and <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>."
+    },
+    {
+      "institution": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.nat.tum.de",
+      "area": "Physics",
+      "studyType": "Master",
+      "startDate": "2017-10-01",
+      "endDate": "2019-09-30",
+      "score": "1.0 (best possible)",
+      "summary": "Master thesis with topic <i>Inferring the Band Structure from Band Mapping Data through Machine Learning</i> supervised by <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>. Final grade: 1.0 (best possible)."
+    },
+    {
+      "institution": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.nat.tum.de",
+      "area": "Physics",
+      "studyType": "Bachelor",
+      "startDate": "2014-10-01",
+      "endDate": "2017-09-30",
+      "summary": "Bachelor thesis with topic <i>Optimal Dynamic Adaptation of Microorganism in Changing Environments</i> supervised by <a href='https://www.bio.nat.tum.de/qbio/home/'>Prof. Ulrich Gerland</a>. Final grade: 1.0 (best possible)."
     }
   ],
   "volunteer": [
