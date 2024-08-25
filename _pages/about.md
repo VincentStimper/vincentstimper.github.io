@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Machine Learning Research Scientist at the Google Deep Mind sister company <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a>. We are using machine learning to develop novel drugs for challenging diseases.
+I'm a Machine Learning Research Scientist at the Google DeepMind's sister company <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a>. We are using machine learning to develop novel drugs for challenging diseases.
 
 Before joining Iso in 2024, I did my PhD in machine learning at the University of Cambridge and the Max Planck Institute for Intelligent Systems.
 Being co-supervised by <a href='https://jmhl.org/'>Prof. José Miguel Hernández-Lobato</a> and <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>, I worked on generative models for molecular configurations as well as causal representation learning and computer vision.
-My Bachelor's and Master's degree in Physics I obtained in 2017 and 2019 at the Technical University of Munich.
+I obtained my Bachelor's and Master's degree in Physics from the Technical University of Munich in the years 2017 and 2019, respectively.
 
 While studying, I completed internships in machine learning research at Microsoft, Amazon, and the Ontario Institute for Cancer Research.
 
