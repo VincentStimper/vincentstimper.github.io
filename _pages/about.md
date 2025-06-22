@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Machine Learning Research Scientist at the Google DeepMind's sister company <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a>. We are using machine learning to develop novel drugs for challenging diseases.
+I'm a Machine Learning Research Scientist at <a href='https://www.isomorphiclabs.com/'>Isomorphic Labs</a>. Grown out of Google DeepMind, it is a subsidiary of Alphabet, Google's parent company. We are using machine learning to develop novel drugs for challenging diseases.
 
 Before joining Iso in 2024, I did my PhD in machine learning at the University of Cambridge and the Max Planck Institute for Intelligent Systems.
 Being co-supervised by <a href='https://jmhl.org/'>Prof. José Miguel Hernández-Lobato</a> and <a href='https://is.mpg.de/person/bs'>Prof. Bernhard Schölkopf</a>, I worked on generative models for molecular configurations as well as causal representation learning and computer vision.
